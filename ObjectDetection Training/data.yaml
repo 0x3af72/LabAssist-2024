@@ -1,0 +1,6 @@
+train: ../dataset/train/images
+val: ../dataset/valid/images
+test: ../dataset/test/images
+
+nc: 2
+names: ['hand_on_vf', 'pipette_in_vf']
